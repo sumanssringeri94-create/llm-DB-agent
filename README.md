@@ -4,7 +4,7 @@ A full-stack conversational AI application that lets you query databases, genera
 
 ---
 
-# Click below link for both Demo video and ppt
+# Click  the below link for both Demo video and ppt
 https://drive.google.com/drive/folders/1cxG4BCIOvvtttvLj8KQJ1KW7kaXbcXXy?usp=sharing
 
 ## ✨ Features
